@@ -1,0 +1,232 @@
+time,user,src,dest,method,result
+1465759783,admin,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759784,root,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759785,darwin,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759785,ftpuser,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759786,toor,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759787,postgres,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759787,field,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759788,apache,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759788,seal,8.8.8.8,sshserver.dmz.grifsec.com,ssh,fail
+1465759788,support,8.8.8.8,sshserver.dmz.grifsec.com,ssh,success
+1465759848,louis,sshserver.dmz.grifsec.com,exchange.dmz.grifsec.com,ntlm/type 3,fail
+1465759848,jamie,sshserver.dmz.grifsec.com,exchange.dmz.grifsec.com,ntlm/type 3,fail
+1465759848,support,sshserver.dmz.grifsec.com,exchange.dmz.grifsec.com,ntlm/type 3,fail
+1465759849,louis,sshserver.dmz.grifsec.com,webserver.dmz.grifsec.com,ssh,fail
+1465759850,support,sshserver.dmz.grifsec.com,webserver.dmz.grifsec.com,ssh,fail
+1465759852,jamie,sshserver.dmz.grifsec.com,webserver.dmz.grifsec.com,ssh,success
+1465759868,jamie,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465759868,joe,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465759868,sally,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465759868,bill,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465759868,yukie,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465759868,carlos,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,fail
+1465760038,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760133,jamie,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,joe,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,sally,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,bill,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,yukie,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,carlos,oracle.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760133,jamie,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760134,joe,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760134,sally,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760134,bill,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760134,yukie,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760135,carlos,oracle.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,fail
+1465760138,yukie,oracle.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 3,fail
+1465760138,carlos,oracle.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 3,fail
+1465760139,jamie,oracle.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 3,fail
+1465760140,joe,oracle.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 3,fail
+1465760140,sally,oracle.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 3,success
+1465760203,sally,oracle.prod.grifsec.com,wkstn2.prod.grifsec.com,ntlm/type 3,success
+1465760203,sally,oracle.prod.grifsec.com,wkstn3.prod.grifsec.com,ntlm/type 3,success
+1465760203,sally,oracle.prod.grifsec.com,wkstn4.prod.grifsec.com,ntlm/type 3,success
+1465760204,sally,oracle.prod.grifsec.com,wkstn5.prod.grifsec.com,ntlm/type 3,success
+1465760204,sally,oracle.prod.grifsec.com,wkstn6.prod.grifsec.com,ntlm/type 3,success
+1465760204,sally,oracle.prod.grifsec.com,wkstn7.prod.grifsec.com,ntlm/type 3,success
+1465760204,sally,oracle.prod.grifsec.com,wkstn8.prod.grifsec.com,ntlm/type 3,success
+1465760205,sally,oracle.prod.grifsec.com,wkstn9.prod.grifsec.com,ntlm/type 3,success
+1465760205,sally,oracle.prod.grifsec.com,wkstn10.prod.grifsec.com,ntlm/type 3,success
+1465760238,sally,oracle.prod.grifsec.com,wkstn5.prod.grifsec.com,ntlm/type 3,success
+1465760283,sally,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,fail
+1465760283,yukie,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,fail
+1465760283,carlos,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,fail
+1465760283,jamie,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,fail
+1465760284,joe,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,fail
+1465760284,support,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,success
+1465760318,support,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,success
+1465760403,billy,ts01.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760408,george,ts01.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,fail
+1465760418,svc_patching,ts01.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465760438,svc_patching,ts01.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465759813,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465756153,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465752553,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465763413,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465764633,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465768263,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465771893,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465775523,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465779153,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465782783,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465786413,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465790043,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465793673,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465797303,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465800933,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465804563,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465808193,louis,4.4.4.4,sshserver.dmz.grifsec.com,ssh,success
+1465759843,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465759903,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465759963,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760023,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760083,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760143,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760203,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760263,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760323,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760383,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760443,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760503,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760563,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760623,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760683,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760743,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760803,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760863,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760923,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465760983,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761043,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761103,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761163,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761223,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761283,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761343,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761403,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761463,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761523,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761583,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761643,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761703,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761763,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761823,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761883,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465761943,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762003,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762063,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762123,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762183,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762243,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762303,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762363,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762423,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762483,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762543,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762603,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762663,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762723,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762783,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762843,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762903,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465762963,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763023,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763083,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763143,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763203,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763263,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763323,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763383,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763443,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763503,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763563,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763623,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763683,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763743,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763803,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763863,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763923,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465763983,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764043,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764103,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764163,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764223,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764283,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764343,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764403,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764463,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764523,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764583,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465764643,db_user,webserver.dmz.grifsec.com,oracle.prod.grifsec.com,tnslsnr,success
+1465752583,sally,wkstn1.prod.grifsec.com,wkstn1.prod.grifsec.com,ntlm/type 2,success
+1465752583,yukie,wkstn2.prod.grifsec.com,wkstn2.prod.grifsec.com,ntlm/type 2,success
+1465752583,carlos,wkstn3.prod.grifsec.com,wkstn3.prod.grifsec.com,ntlm/type 2,success
+1465752583,jamie,wkstn4.prod.grifsec.com,wkstn4.prod.grifsec.com,ntlm/type 2,success
+1465752583,joe,wkstn5.prod.grifsec.com,wkstn5.prod.grifsec.com,ntlm/type 2,success
+1465752583,jeff,wkstn6.prod.grifsec.com,wkstn6.prod.grifsec.com,ntlm/type 2,success
+1465752583,wally,wkstn7.prod.grifsec.com,wkstn7.prod.grifsec.com,ntlm/type 2,success
+1465752583,billy,wkstn8.prod.grifsec.com,wkstn8.prod.grifsec.com,ntlm/type 2,success
+1465752583,george,wkstn9.prod.grifsec.com,wkstn9.prod.grifsec.com,ntlm/type 2,success
+1465752583,will,wkstn10.prod.grifsec.com,wkstn10.prod.grifsec.com,ntlm/type 2,success
+1465752583,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465752583,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465752583,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465752583,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465756183,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465756183,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465756183,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465756183,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465759783,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465759783,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465759783,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465759783,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465763383,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465763383,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465763383,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465763383,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465766983,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465766983,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465766983,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465766983,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,sally,wkstn1.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,yukie,wkstn2.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,carlos,wkstn3.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,jamie,wkstn4.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465770583,joe,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,jeff,wkstn6.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,wally,wkstn7.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465770583,billy,wkstn8.prod.grifsec.com,dc2.prod.grifsec.com,ntlm/type 3,success
+1465770583,george,wkstn9.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465770583,will,wkstn10.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success
+1465752583,svc_patching,wkstn5.prod.grifsec.com,ts01.prod.grifsec.com,ntlm/type 3,success
+1465752783,svc_patching,wkstn5.prod.grifsec.com,dc1.prod.grifsec.com,ntlm/type 3,success

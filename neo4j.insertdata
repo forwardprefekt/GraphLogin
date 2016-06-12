@@ -1,0 +1,15 @@
+create constraint on (p:machine) ASSERT p.name IS UNIQUE;
+
+using periodic commit
+load csv with headers from "file:/bad.logindata" AS csvline
+MERGE (o:Machine { name: csvline.src } );
+
+using periodic commit
+load csv with headers from "file:/bad.logindata" AS csvline
+MERGE (o:Machine { name: csvline.dest } );
+
+using periodic commit
+load csv with headers from "file:/bad.logindata" AS csvline
+match (f:Machine { name: csvline.src }), (t:Machine {name: csvline.dest })
+create (f)-[:LOGIN { user: csvline.user , time: csvline.time, result: csvline.result, method: csvline.method }]->(t);
+
